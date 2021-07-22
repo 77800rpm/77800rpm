@@ -18,6 +18,16 @@
   * Servlet / JSP, JDBC
   * Spring Framework, Mybatis, Ajax 
 * HTML / CSS / JavaScript 
+
+
+
+
+## 🌏 Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=77800rpm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **77800rpm/77800rpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
